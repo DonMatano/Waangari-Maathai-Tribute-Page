@@ -1,0 +1,32 @@
+body{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/86/72/b5/8672b5f4a883a6ac3df2309266a56c2d.jpg");
+}
+
+#content{
+	margin: 20px;
+	background-color: black;
+	color: #408335;
+}
+
+#image_textdiv{
+	background-color: #A2814D;
+	color: black;
+	margin: auto;
+	width: 50%;
+}
+
+ul{
+	border: 1px solid grey;
+	padding: 20px;
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+}
+
+li{
+    margin: 5px;
+}
+
+.year{
+	font-weight: bold;
+}
+
